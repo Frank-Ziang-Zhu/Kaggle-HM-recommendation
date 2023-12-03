@@ -1,12 +1,6 @@
-# Kaggle HM Recommendation
- H&M Personalized Fashion Recommendations
-avatar
+# Kaggle H&M Personalized Fashion Recommendations
 
-Provide product recommendations based on previous purchases
 
-H&M Personalized Fashion Recommendations | Kaggle
-
-比赛介绍
 在这次竞赛中，参赛者将根据H&M集团以往交易的数据以及客户和商品的元数据来开发产品推荐。可用的元数据从简单的数据，如服装类型和客户年龄，到产品描述的文本数据，再到服装图片的图像数据。
 
 对于哪些信息可能是有用的，没有任何先入为主的看法--这要由你自己去发现。如果你想研究分类数据类型的算法，或深入研究NLP和图像处理的深度学习，那是由你决定的。
